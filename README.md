@@ -1,8 +1,3 @@
----
-title: C flow
-
----
-
 C flow
 ===
 下面描述成簡易flow
